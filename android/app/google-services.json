@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80569791634",
+    "project_id": "le-fiscaliste",
+    "storage_bucket": "le-fiscaliste.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80569791634:android:8652acc25ef1166f29e24b",
+        "android_client_info": {
+          "package_name": "com.fiscaliste.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0QHI9aU30jvgvuB35bvg35eogktcYz08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
